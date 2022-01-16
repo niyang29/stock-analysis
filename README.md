@@ -2,6 +2,7 @@
 
 ---
 ##Overview of Project
+
 The purpose of this analysis is to assess which stocks Steve's parents should invest in. In order to determine which stocks to invest in, stock performances in 2017 and 2018 were assessed by looking at daily volumes and yearly returns of each stock. Steve then requested for a way to review thousands of stocks in a short period of time, thus, resulting in the need to refactor the original code. 
 ---
 ## Results
